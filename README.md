@@ -1,6 +1,6 @@
 # boomdots
 Boom Dots recreated using the Phaser JavaScript framework
 
-By Viacheslav http://www.gingerbeardman.com
+By Viacheslav
 
 Original game "Boom Dots" by Umbrella Games http://umbrella.wtf/boomdots/
